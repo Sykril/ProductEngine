@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductEngineWebAPI", "ProductEngineWebAPI\ProductEngineWebAPI.csproj", "{B6D71FAB-3847-4A63-89A3-1F27803FF28C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductEngineDAL", "ProductEngineDAL\ProductEngineDAL.csproj", "{F09C1CD3-2F94-4405-815D-0CAABAA87110}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D71FAB-3847-4A63-89A3-1F27803FF28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D71FAB-3847-4A63-89A3-1F27803FF28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D71FAB-3847-4A63-89A3-1F27803FF28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D71FAB-3847-4A63-89A3-1F27803FF28C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F09C1CD3-2F94-4405-815D-0CAABAA87110}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F09C1CD3-2F94-4405-815D-0CAABAA87110}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F09C1CD3-2F94-4405-815D-0CAABAA87110}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F09C1CD3-2F94-4405-815D-0CAABAA87110}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
